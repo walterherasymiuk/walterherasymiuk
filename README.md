@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m a M.S. in Statistics Candidate at Tulane University
+- 🌱 I am currently learning Python and R for statistical applications
+- 🤔 I would love help with methods to clean data in R
+- 📫 How to reach me: school email: wherasymiuk@tulane.edu
+- ⚡ Fun fact: I majored in Philosophy in addition to Mathematics, so I love discussing different topics in philosophy as well!
